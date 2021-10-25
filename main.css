@@ -1,0 +1,46 @@
+img{
+    width: 225px;
+}
+h1{
+    text-align: center;
+}
+span{
+    color:darkgreen
+}
+ul{
+    list-style-type: none;
+}
+.main-left, .main-right{
+    border: 2px solid black;
+    box-shadow: 0px 1px 5px 5px grey;
+    border-radius: 5px;
+
+} 
+.main-left{
+    width: 300px;
+    text-align: center;
+}
+.main-right{
+    width: 1200px;
+    height: 670px;
+}
+hr{
+    color: black;
+    
+}
+.btn{
+    color: white;
+    text-decoration: none;
+    background-color: tomato;
+    padding: 5px 10px;
+    
+}
+.center{
+    text-align:center;
+
+}
+.btn:hover{
+    box-shadow: 3px 3px 3px 3px black;
+    height: 50px;
+    width: 30px;
+}
